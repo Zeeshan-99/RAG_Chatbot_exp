@@ -24,7 +24,7 @@ faiss_folder = 'faiss_index/'
 
 # Load documents
 documents = read_documents(dataset_folder)
-document_embeddings = sentence_model.encode(documents)
+document_embeddings = sentence_model.encode([documents])
 dim = document_embeddings.shape[1]  # Dimension of embeddings
 
 # Load or create FAISS index
