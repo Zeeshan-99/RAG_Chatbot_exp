@@ -1,0 +1,23 @@
+[
+    {"id": 1, "text": "Python is a programming language that lets you work quickly and integrate systems more effectively."},
+    {"id": 2, "text": "Machine learning is the study of computer algorithms that improve automatically through experience."},
+    {"id": 3, "text": "Flask is a micro web framework written in Python."},
+    {"id": 4, "text": "Zeeshan is a Python Developer."},
+    {"id": 4, "text": "Azam  is a Manager at OIC."},
+    {"id": 5, "text": "The Theory of Relativity was proposed by Albert Einstein in the early 20th century."},
+    {"id": 6, "text": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll."},
+    {"id": 7, "text": "Blockchain technology is the backbone of cryptocurrencies like Bitcoin."},
+    {"id": 8, "text": "The Great Wall of China is one of the Seven Wonders of the World and stretches over 13,000 miles."},
+    {"id": 9, "text": "Leonardo da Vinci was an Italian polymath of the Renaissance whose areas of interest included invention, drawing, painting, sculpture, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, paleontology, and cartography."},
+    {"id": 10, "text": "Quantum computing is the study of how to use phenomena in quantum physics to create new ways of computing."},
+    {"id": 11, "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions."},
+    {"id": 12, "text": "The Amazon Rainforest is the largest tropical rainforest in the world, covering over 5.5 million square kilometers."},
+    {"id": 13, "text": "Jupiter is the largest planet in our solar system and has a Great Red Spot, which is a giant storm."},
+    {"id": 14, "text": "Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields."},
+    {"id": 15, "text": "The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction."},
+    {"id": 16, "text": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci that has been described as the most famous, visited, talked about, sung about, and parodied work of art in the world."},
+    {"id": 17, "text": "Photosynthesis is the process used by plants, algae and certain bacteria to harness energy from sunlight into chemical energy."},
+    {"id": 18, "text": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist."},
+    {"id": 19, "text": "The Large Hadron Collider (LHC) is the world's largest and most powerful particle collider, located at CERN, near Geneva, Switzerland."},
+    {"id": 20, "text": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."}
+]
